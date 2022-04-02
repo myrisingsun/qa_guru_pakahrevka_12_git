@@ -10,6 +10,6 @@ public class Main {
         System.out.println("Slow Branch");
            }
 	public static void another (){
-		System.out.println("Hello METOD");
+		System.out.println("HELLO METOD");
 	}
 }
