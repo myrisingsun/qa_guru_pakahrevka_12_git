@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Test 2");
         System.out.println("Test");
+        System.out.println("Slow Branch");
            }
 	public static void another (){
 		System.out.println("Hello WORLD");
