@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Test");
            }
 	public static void another (){
-		System.out.println("Hello WORLD");
+		System.out.println("Hello__ WORLD");
 	}
 }
